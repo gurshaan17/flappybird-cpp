@@ -8,3 +8,7 @@ This is a simple Flappy Bird clone implemented in C++ using the SFML (Simple and
 - **Pipes**: Randomly generated pipes that the bird must navigate through.
 - **Score Tracking**: The score increases each time the bird successfully passes through a pipe.
 - **Game Over State**: The game ends when the bird collides with the ground or a pipe, with an option to restart.
+
+## Requirements
+
+- C++
